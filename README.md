@@ -4,6 +4,6 @@
 
 ## Structure
 .
-├── PDFs/            # Final output files (e.g., compiled PDFs)
+├── PDFs/            # Final output files (e.g., compiled PDFs)                           
 ├── TexFiles/        # LaTeX source files and dependencies          	     
 └── README.md        # Project overview
